@@ -32,7 +32,6 @@ migrate_working_dir/
 .pub/
 /build/
 /lib/home.dart
-/lib/chatmessege.dart
 
 # Symbolication related
 app.*.symbols
